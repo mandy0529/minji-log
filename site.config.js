@@ -1,29 +1,28 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Good day, Minji!",
+    name: "MinjiSpace",
     image: "/minji.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "web developer",
     bio: "I develop everything using node.",
     email: "321963741@naver.com",
-    github: "mandy0529",
+    github: "minjispace",
     instagram: "",
     linkedin: "",
   },
   projects: [
     {
-      name: `minji-log`,
-      href: "https://github.com/mandy0529",
+      name: `minjispace`,
+      href: "https://github.com/minjispace",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "minji-log",
-    description: "welcome to minji-log!",
+    title: "minjispacecome to minjispace!",
   },
 
   // CONFIG configration (required)
-  link: "https://minji-log.vercel.app",
+  link: "https://minjjispace.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
