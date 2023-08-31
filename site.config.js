@@ -18,7 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "minjispacecome to minjispace!",
+    title: "minjispace",
+    description: "welcome to minjispace!",
   },
 
   // CONFIG configration (required)
