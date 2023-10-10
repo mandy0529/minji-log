@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "MinjiSpace",
-    image: "/minji.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/dev.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "web developer",
     bio: "I develop everything using node.",
     email: "gooddayminji@gmail.com",
@@ -14,10 +14,6 @@ const CONFIG = {
     {
       name: `website`,
       href: "https://minjispace.oopy.io/",
-    },
-    {
-      name: `github`,
-      href: "https://github.com/minjispace",
     },
   ],
   // blog setting (required)
