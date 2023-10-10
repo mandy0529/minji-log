@@ -5,14 +5,18 @@ const CONFIG = {
     image: "/minji.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "web developer",
     bio: "I develop everything using node.",
-    email: "321963741@naver.com",
+    email: "gooddayminji@gmail.com",
     github: "minjispace",
-    instagram: "",
-    linkedin: "",
+    instagram: "mi_nzi",
+    linkedin: "https://minjispace.oopy.io/",
   },
   projects: [
     {
-      name: `minjispace`,
+      name: `website`,
+      href: "https://minjispace.oopy.io/",
+    },
+    {
+      name: `github`,
       href: "https://github.com/minjispace",
     },
   ],
