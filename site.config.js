@@ -4,7 +4,7 @@ const CONFIG = {
     name: "MinjiSpace",
     image: "/dev.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "web developer",
-    bio: "작은 성취들을 모아 긴 여정을 걸어오며 큰 만족을 느끼며 개발하고 있는 김민지입니다.",
+    bio: "작은 성취들을 모아 긴 여정을 걸어오면서 큰 만족을 느끼며 개발하고 있는 김민지입니다.",
     email: "gooddayminji@gmail.com",
     github: "minjispace",
     instagram: "mi_nzi",
