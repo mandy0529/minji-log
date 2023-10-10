@@ -2,13 +2,12 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "MinjiSpace",
-    image: "/dev.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/dev.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "web developer",
     bio: "I develop everything using node.",
     email: "gooddayminji@gmail.com",
     github: "minjispace",
     instagram: "mi_nzi",
-    linkedin: "https://minjispace.oopy.io/",
   },
   projects: [
     {
