@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `website`,
-      href: "https://www.minji-kim.site/",
+      href: "https://www.minji-kim.site",
     },
   ],
   // blog setting (required)
